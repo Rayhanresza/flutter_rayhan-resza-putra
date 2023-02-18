@@ -32,6 +32,8 @@ berjalan pada sistem ios yang hanya bisa dikembangkan oleh Apple
 Berjalan pada sistem operasi Android, bersifat open source
 
 Berikut ada juga link tugas pada materi kali ini :
+
 [Soal Prioritas 1](https://docs.google.com/document/d/1ph3xRLidj8prg5U2pU_Tu4zDOA2-M-XIM0rFpoGJLfU/edit?usp=sharing)
+
 [Soal Prioritas 2](https://docs.google.com/document/d/1VhDfETq-RDub0OBynnI9jDCRLuSx13c3dO0EIOgtNRI/edit?usp=sharing)
 
