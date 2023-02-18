@@ -5,7 +5,7 @@ dari materi Mobile App Development ini ada beberapa poin penting yaitu :
 2.  Pengembangan Software
 3.  Mobile App Development  
 
-###### 1. Pengertian Software dan jenis-jenisnya
+#### 1. Pengertian Software dan jenis-jenisnya
 Software adalah sebuah program dalam sebuah komputer yang dapat dikendalikan oleh penggunanya
 
 Jenis-jenis Software :
@@ -16,7 +16,7 @@ berjalan pada platform desktop/komputer,memerlukan proses instalasi
 - Mobile
 berjalan pada perangkat mobile(berupa perangkat Smartphone dan tablet)
 
-###### 2. Pengembangan Software
+#### 2. Pengembangan Software
 untuk mengembangkan sebuah software membutuhkan :
 - Bahasa Pemrograman 
 Adalah bahasa yang digunakan untuk memberikan perintah pada komputer
@@ -25,7 +25,7 @@ software yang digunkan untuk membaca bahasa perintah menjadi bahasa lain
 - Interpreter
 Software yang digunakan untuk membaca perintah dan menjalankannya langsung
 
-###### 3. mobile app development 
+#### 3. mobile app development 
 - Ios 
 berjalan pada sistem ios yang hanya bisa dikembangkan oleh Apple
 - Android 
