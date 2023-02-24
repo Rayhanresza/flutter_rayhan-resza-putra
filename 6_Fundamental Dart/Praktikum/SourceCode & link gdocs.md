@@ -84,3 +84,7 @@ void main() {
   print ("$pi * $r * $r * $t = $hasil ");
 }
 ```
+# Link gdocs
+[Soal Prioritas 1](https://docs.google.com/document/d/18eXhUSUr-vkwQRsg_AkO5DynpzNv5h-Pub3DqTWoL5I/edit?usp=sharing)
+
+[Soal Prioritas 2](https://docs.google.com/document/d/1V8qUTXbAieiRDMjPWfGs7r7Dn4HSx-eByxK-QcgvlRI/edit?usp=sharing)
