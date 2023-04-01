@@ -42,7 +42,7 @@ daftarkan font yang sudah di download kedalam pubspec.yaml
 - step 4:
 mengatur font sebagai default pada semua tulusan yang ada pada aplikasi yang dibuat, dan bisa juga diatur pada spesifik widget yang inggin diggunkan.
 
-### Font dari PAckage
+### Font dari Package
 - step 1: 
 tambahkan package google_font di dependencies
 - step 2:
