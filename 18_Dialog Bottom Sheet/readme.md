@@ -16,4 +16,5 @@ menambahkan fungsi onPressed pada TaskItemCard, pada body fungsi nya tambahkan m
 ![image](https://github.com/Rayhanresza/picture/blob/main/alertdialog3.png)
 
 hasilnya akan menjadi seperti ini :
+
 ![image](https://github.com/Rayhanresza/picture/blob/main/alertdialog4.png)
